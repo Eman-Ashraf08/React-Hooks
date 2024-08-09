@@ -1,0 +1,18 @@
+
+.login-form{
+  height: 200px;
+  width: 250px;
+  background-color: rgb(78, 5, 127);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 8px;
+  margin-top: 230px;
+  margin-left: 300px;
+}
+label{
+  color: rgb(8, 126, 229);
+}
+p{
+  color: rgb(9, 134, 243);
+}
